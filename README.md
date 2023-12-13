@@ -25,4 +25,4 @@ To run the notebook, follow these steps:
 
 ## Acknowledgments
 - Dataset source: YouTube Spam Collection [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/380/youtube+spam+collection)
-- Inspired by the COMP 237 course term project.
+- COMP 237 course term project.
